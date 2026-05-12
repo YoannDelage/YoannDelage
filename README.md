@@ -1,5 +1,14 @@
 # 💫 À propos de moi :
-🔭 Je travaille actuellement sur → Une IA d'échecs adaptive avec XGBoost + estimation Bayésienne de l'Elo, et un bot Pokémon Showdown entraîné par renforcement (PPO)<br>👯 Je cherche à collaborer sur → Des projets Data Science / Data Analyse, de l'analytics sportif, ou tout ce qui mélange ML et jeux vidéo<br>🤝 J'ai besoin d'aide pour → Décrocher mon premier poste de Data Scientist ou Data Analyst en région parisienne<br>🌱 J'apprends actuellement → Le MLOps (FastAPI, Docker, CI/CD), le deep learning et le reinforcement learning<br>💬 Posez-moi des questions sur → Python, scikit-learn, XGBoost, Streamlit, l'analytics NBA, ou comment reconvertir 9 ans d'expérience en conduite de train en carrière Data<br>⚡ Fun fact → La plupart de mes centres d'intérêt ont toujours été des bases de données déguisées — que ce soit les stats NBA ou mes jeux de cartes préférés, j'ai toujours cherché à optimiser des systèmes sans le savoir. La Data Science, c'était juste une question de temps.
+
+🔭 Je travaille actuellement sur → Une IA d'échecs adaptive avec XGBoost + estimation Bayésienne de l'Elo, et un bot Pokémon Showdown entraîné par renforcement (PPO)<br>
+
+👯 Je cherche à collaborer sur → Des projets Data Science / Data Analyse, de l'analytics sportif, ou tout ce qui mélange ML et jeux vidéo<br>
+
+🤝 J'ai besoin d'aide pour → Décrocher mon premier poste de Data Scientist ou Data Analyst en région parisienne<br>
+
+🌱 J'apprends actuellement → Le MLOps (FastAPI, Docker, CI/CD), le deep learning et le reinforcement learning<br>💬 Posez-moi des questions sur → Python, scikit-learn, XGBoost, Streamlit, l'analytics NBA, ou comment reconvertir 9 ans d'expérience en conduite de train en carrière Data<br>
+
+⚡ Fun fact → La plupart de mes centres d'intérêt ont toujours été des bases de données déguisées — que ce soit les stats NBA ou mes jeux de cartes préférés, j'ai toujours cherché à optimiser des systèmes sans le savoir. La Data Science, c'était juste une question de temps.
 
 
 ## 🌐 Mes liens :
