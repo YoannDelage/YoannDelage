@@ -10,7 +10,7 @@
 
 💬 Posez-moi des questions sur → Python, scikit-learn, XGBoost, Streamlit, l'analytics NBA, ou comment reconvertir 9 ans d'expérience en conduite de train en carrière Data<br>
 
-⚡ Fun fact → La plupart de mes centres d'intérêt ont toujours été des bases de données déguisées — que ce soit les stats NBA ou mes jeux de cartes préférés, j'ai toujours cherché à optimiser des systèmes sans le savoir. La Data Science, c'était juste une question de temps.
+⚡ Fun fact → La plupart de mes centres d'intérêt ont toujours été des bases de données déguisées — ce qui m'attire dans la NBA au dela du jeu pur par exemple - , j'ai toujours cherché à optimiser des systèmes sans le savoir. La Data Science, c'était juste une question de temps.
 
 
 ## 🌐 Mes liens :
